@@ -2,7 +2,8 @@
 
 Atividade referente ao módulo 13 do curso de Cientista de Dados da EBAC
 
-Nesse projeto foi proposto que fizéssemos trabalhássemos em uma base de dados de produtos em um supermercado do Chile, aplicando os conceitos estatísticos vistos no módulo.
+Este projeto faz parte da Atividade do Módulo 13 do curso Cientista de Dados da EBAC. O objetivo foi trabalhar com uma base de dados de produtos de um supermercado no Chile, aplicando conceitos estatísticos para análise de dados. Durante o projeto, foram realizadas diversas análises e visualizações para entender melhor os dados.
+
 As atividades realizadas neste projeto foram as seguintes:
 
 1- Média e Mediana dos Preços

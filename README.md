@@ -6,17 +6,17 @@ Este projeto faz parte da Atividade do Módulo 13 do curso Cientista de Dados da
 
 As atividades realizadas neste projeto foram as seguintes:
 
-1- Média e Mediana dos Preços
+1- Média e Mediana dos Preços:
 Calcular a média e a mediana da coluna Preco_Normal para cada categoria de produto.
 
-2- Desvio Padrão por Categoria
+2- Desvio Padrão por Categoria:
 Calcular o desvio padrão do preço dos produtos em cada categoria.
 
-3- Boxplot da Distribuição de Preço
+3- Boxplot da Distribuição de Preço:
 Plotar um boxplot para visualizar a distribuição da coluna Preco_Normal para a categoria com o maior desvio padrão.
 
-4- Média de Descontos por Categoria
+4- Média de Descontos por Categoria:
 Criar um gráfico de barras para mostrar a média de descontos por categoria de produto.
 
-5- Gráfico Interativo de Mapa
+5- Gráfico Interativo de Mapa:
 Plotar um gráfico de mapa interativo, agrupando dados por categoria e marca, e calculando a média de descontos.
